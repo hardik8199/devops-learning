@@ -1,0 +1,4 @@
+Wed Jan 14 11:17:30 UTC 2026 INFO: app started
+Wed Jan 14 11:17:30 UTC 2026 ERROR: DB connection failed
+Wed Jan 14 11:17:30 UTC 2026 INFO: retrying...
+Wed Jan 14 11:17:30 UTC 2026 ERROR: timeout

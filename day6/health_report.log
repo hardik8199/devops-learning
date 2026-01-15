@@ -1,0 +1,155 @@
+===== SERVER HEALTH CHECK =====
+Date: Thu Jan 15 10:00:01 UTC 2026
+Hostname: ip-172-31-8-252
+Uptime: up 2 hours, 17 minutes
+
+===== CPU / Memory =====
+               total        used        free      shared  buff/cache   available
+Mem:             914         331         226           2         518         582
+Swap:              0           0           0
+
+===== Disk Usage =====
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.8G  2.5G  4.3G  37% /
+tmpfs            458M     0  458M   0% /dev/shm
+tmpfs            183M  876K  182M   1% /run
+tmpfs            5.0M     0  5.0M   0% /run/lock
+efivarfs         128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16  881M  155M  665M  19% /boot
+/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
+tmpfs             92M   12K   92M   1% /run/user/1000
+
+===== Top 5 CPU Processes =====
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ubuntu      1942  0.0  0.7  14996  7160 ?        S    08:23   0:01 sshd: ubuntu@pts/2
+root           1  0.0  1.4  22608 13948 ?        Ss   07:42   0:02 /sbin/init
+root         553  0.0  4.0 1923392 38292 ?       Ssl  07:42   0:01 /snap/snapd/current/usr/lib/snapd/snapd
+root         550  0.0  2.1 1830608 20200 ?       Ssl  07:42   0:01 /snap/amazon-ssm-agent/12322/amazon-ssm-agent
+root        2137  0.0  0.0      0     0 ?        D    09:50   0:00 [kworker/1:1+events]
+
+===== NGINX Status =====
+active
+===== SERVER HEALTH CHECK =====
+Date: Thu Jan 15 10:05:01 UTC 2026
+Hostname: ip-172-31-8-252
+Uptime: up 2 hours, 22 minutes
+
+===== CPU / Memory =====
+               total        used        free      shared  buff/cache   available
+Mem:             914         332         225           2         518         581
+Swap:              0           0           0
+
+===== Disk Usage =====
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.8G  2.5G  4.3G  37% /
+tmpfs            458M     0  458M   0% /dev/shm
+tmpfs            183M  876K  182M   1% /run
+tmpfs            5.0M     0  5.0M   0% /run/lock
+efivarfs         128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16  881M  155M  665M  19% /boot
+/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
+tmpfs             92M   12K   92M   1% /run/user/1000
+
+===== Top 5 CPU Processes =====
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ubuntu      1942  0.0  0.7  14996  7160 ?        S    08:23   0:01 sshd: ubuntu@pts/2
+root           1  0.0  1.4  22608 13948 ?        Ss   07:42   0:02 /sbin/init
+root         553  0.0  4.0 1923392 38296 ?       Ssl  07:42   0:01 /snap/snapd/current/usr/lib/snapd/snapd
+root         550  0.0  2.1 1830608 20088 ?       Ssl  07:42   0:01 /snap/amazon-ssm-agent/12322/amazon-ssm-agent
+root        2137  0.0  0.0      0     0 ?        I    09:50   0:00 [kworker/1:1-events]
+
+===== NGINX Status =====
+active
+===== SERVER HEALTH CHECK =====
+Date: Thu Jan 15 10:10:01 UTC 2026
+Hostname: ip-172-31-8-252
+Uptime: up 2 hours, 27 minutes
+
+===== CPU / Memory =====
+               total        used        free      shared  buff/cache   available
+Mem:             914         336         222           2         518         578
+Swap:              0           0           0
+
+===== Disk Usage =====
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.8G  2.5G  4.3G  37% /
+tmpfs            458M     0  458M   0% /dev/shm
+tmpfs            183M  876K  182M   1% /run
+tmpfs            5.0M     0  5.0M   0% /run/lock
+efivarfs         128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16  881M  155M  665M  19% /boot
+/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
+tmpfs             92M   12K   92M   1% /run/user/1000
+
+===== Top 5 CPU Processes =====
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ubuntu      1942  0.0  0.7  14996  7160 ?        S    08:23   0:01 sshd: ubuntu@pts/2
+root           1  0.0  1.4  22608 13948 ?        Ss   07:42   0:02 /sbin/init
+root         553  0.0  4.0 1923392 38296 ?       Ssl  07:42   0:01 /snap/snapd/current/usr/lib/snapd/snapd
+root         550  0.0  2.1 1830608 20088 ?       Ssl  07:42   0:01 /snap/amazon-ssm-agent/12322/amazon-ssm-agent
+root        2137  0.0  0.0      0     0 ?        I    09:50   0:00 [kworker/1:1-cgroup_destroy]
+
+===== NGINX Status =====
+active
+===== SERVER HEALTH CHECK =====
+Date: Thu Jan 15 10:15:01 UTC 2026
+Hostname: ip-172-31-8-252
+Uptime: up 2 hours, 32 minutes
+
+===== CPU / Memory =====
+               total        used        free      shared  buff/cache   available
+Mem:             914         334         223           2         518         579
+Swap:              0           0           0
+
+===== Disk Usage =====
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.8G  2.5G  4.3G  37% /
+tmpfs            458M     0  458M   0% /dev/shm
+tmpfs            183M  876K  182M   1% /run
+tmpfs            5.0M     0  5.0M   0% /run/lock
+efivarfs         128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16  881M  155M  665M  19% /boot
+/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
+tmpfs             92M   12K   92M   1% /run/user/1000
+
+===== Top 5 CPU Processes =====
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ubuntu      1942  0.0  0.7  14996  7160 ?        S    08:23   0:01 sshd: ubuntu@pts/2
+root           1  0.0  1.4  22608 13948 ?        Ss   07:42   0:02 /sbin/init
+root         553  0.0  4.0 1923392 38296 ?       Ssl  07:42   0:01 /snap/snapd/current/usr/lib/snapd/snapd
+root         550  0.0  2.1 1830608 20088 ?       Ssl  07:42   0:01 /snap/amazon-ssm-agent/12322/amazon-ssm-agent
+root        2065  0.0  0.0      0     0 ?        I    09:20   0:00 [kworker/0:2-events]
+
+===== NGINX Status =====
+active
+===== SERVER HEALTH CHECK =====
+Date: Thu Jan 15 10:20:01 UTC 2026
+Hostname: ip-172-31-8-252
+Uptime: up 2 hours, 37 minutes
+
+===== CPU / Memory =====
+               total        used        free      shared  buff/cache   available
+Mem:             914         340         217           2         519         573
+Swap:              0           0           0
+
+===== Disk Usage =====
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.8G  2.5G  4.3G  37% /
+tmpfs            458M     0  458M   0% /dev/shm
+tmpfs            183M  880K  182M   1% /run
+tmpfs            5.0M     0  5.0M   0% /run/lock
+efivarfs         128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16  881M  155M  665M  19% /boot
+/dev/nvme0n1p15  105M  6.2M   99M   6% /boot/efi
+tmpfs             92M   12K   92M   1% /run/user/1000
+
+===== Top 5 CPU Processes =====
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root        2331  0.0  4.4 477964 41636 ?        Ssl  10:15   0:00 /usr/libexec/fwupd/fwupd
+ubuntu      1942  0.0  0.7  14996  7160 ?        S    08:23   0:01 sshd: ubuntu@pts/2
+root           1  0.0  1.4  22608 13948 ?        Ss   07:42   0:02 /sbin/init
+root         553  0.0  4.0 1923392 38304 ?       Ssl  07:42   0:01 /snap/snapd/current/usr/lib/snapd/snapd
+root         550  0.0  2.1 1830608 20088 ?       Ssl  07:42   0:01 /snap/amazon-ssm-agent/12322/amazon-ssm-agent
+
+===== NGINX Status =====
+active
